@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aig_folder/1st ticket.md",
+                "file": "math analysis/Пределы/Пределы последовательности.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1st ticket"
+              "title": "Пределы последовательности"
             }
           }
         ]
@@ -165,8 +165,24 @@
   },
   "active": "47d85dd416862232",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
+    "math analysis/билеты/2. Определение функции. Область определения. Монотонная функция. Четная и  нечетная функции. Обратная функция. Сложная функция. Элементарные функции..md",
+    "math analysis/билеты/1. Множества на числовой прямой; определение окрестности конечной точки. Бесконечные точки..md",
+    "photofolder/Pasted image 20241221231354.png",
+    "photofolder/Pasted image 20241221221712.png",
+    "photofolder/Pasted image 20241221214719.png",
+    "photofolder",
+    "phisics/Phisics.md",
+    "phisics",
+    "math analysis/Пределы/Пределы последовательности.md",
+    "math analysis/Словарь.md",
+    "math analysis/Пределы",
+    "math analysis/билеты",
+    "math analysis/dirivatives.md",
+    "math analysis",
+    "alg and geom/Линейная алгебра.md",
+    "alg and geom",
     "aig_folder/1st ticket.md",
+    "Добро пожаловать.md",
     "aig_folder"
   ]
 }
