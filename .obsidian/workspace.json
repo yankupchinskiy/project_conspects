@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78297db3efd6453f",
+        "id": "5062d64f83bc326e",
         "type": "tabs",
         "children": [
           {
-            "id": "47d85dd416862232",
+            "id": "41dc9865d2295194",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "math analysis/билеты/10. Сравнение бесконечно малых. Эквивалентные бесконечно малые. Таблица эквивалентных бесконечно малых(доказательство).....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10. Сравнение бесконечно малых. Эквивалентные бесконечно малые. Таблица эквивалентных бесконечно малых(доказательство)...."
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -60,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -154,31 +154,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47d85dd416862232",
+  "active": "41dc9865d2295194",
   "lastOpenFiles": [
+    "math analysis/Словарь.md",
+    "math analysis/билеты/10. Сравнение бесконечно малых. Эквивалентные бесконечно малые. Таблица эквивалентных бесконечно малых(доказательство).....md",
+    "math analysis/билеты/4. Свойства функций, стремящихся к конечному пределу (ограниченность функции, имеющей конечный предел; теорема о сжатой переменной; предельный переход в неравенстве)..md",
     "math analysis/билеты/5. Односторонние пределы функции в точке.  Необходимое и достаточное условие существования конечного предела(использующее односторонние пределы). Первый замечательный предел..md",
-    "README.md",
+    "math analysis/билеты/6. Теорема о монотонной ограниченной функции и последовательности (без доказательства). Второй  замечательный предел..md",
+    "math analysis/билеты/7. Бесконечно малые функции, их свойства. Необходимое и достаточное условие стремления функции к конечному пределу..md",
+    "math analysis/билеты/8. Бесконечно большие функции их свойства. Теорема о связи бесконечно малой и бесконечно большой функций..md",
+    "math analysis/билеты/9. Предел суммы, произведения и частного функций, стремящихся к конечным пределам..md",
+    "math analysis/билеты/1. Множества на числовой прямой; определение окрестности конечной точки. Бесконечные точки..md",
+    "alg and geom/Линейная алгебра.md",
     "math analysis/билеты/3. Определение предела последовательности; определение предела функции в точке (конечной и бесконечной). Простейшие пределы  . Единственность конечного предела..md",
     "math analysis/билеты/2. Определение функции. Область определения. Монотонная функция. Четная и  нечетная функции. Обратная функция. Сложная функция. Элементарные функции..md",
-    "math analysis/билеты/4. Свойства функций, стремящихся к конечному пределу (ограниченность функции, имеющей конечный предел; теорема о сжатой переменной; предельный переход в неравенстве)..md",
-    "math analysis/билеты/1. Множества на числовой прямой; определение окрестности конечной точки. Бесконечные точки..md",
-    "conflict-files-obsidian-git.md",
     "math analysis/Пределы/Пределы последовательности.md",
-    "math analysis/Словарь.md",
     "photofolder/Греческий алфавит.png",
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "photofolder/Pasted image 20241221214719.png",
     "Без названия",
     "math analysis/dirivatives.md",
-    "alg and geom/Линейная алгебра.md",
     "photofolder/Pasted image 20250105184306.png",
     "photofolder/Pasted image 20241221231354.png",
     "photofolder/Pasted image 20241221221712.png",
