@@ -154,12 +154,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,19 +173,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64b3c0489a9adf70",
+  "active": "b92d4c0ade04722c",
   "lastOpenFiles": [
+    "ПИ/1 курс 2024-2025/МатАн/билеты/2. Определение функции. Область определения.md",
     "ПИ/2 курс 2025-2026/АиСд/12 Очередь с приоритетом, Кучи.md",
-    "Pasted image 20260113111225.png",
-    "Pasted image 20260113111221.png",
-    "Pasted image 20260113110641.png",
-    "Pasted image 20260113110606.png",
-    "Pasted image 20260113110523.png",
-    "Pasted image 20260113110037.png",
-    "Pasted image 20260113110011.png",
-    "Pasted image 20260113105821.png",
-    "Pasted image 20260113105730.png",
-    "Pasted image 20260113105256.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113111225.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113111221.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113110641.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113110606.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113110523.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113110037.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113110011.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113105821.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113105730.png",
+    "ПИ/2 курс 2025-2026/photofolder/Pasted image 20260113105256.png",
     "ПИ/2 курс 2025-2026/АиСд/11 В-дерево.md",
     "презентации/~$Тема 12. Очередь с приоритетом. Кучи .pptx",
     "презентации/~$Тема 11. B-дерево.pptx",
