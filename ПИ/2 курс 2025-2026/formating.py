@@ -1,6 +1,6 @@
 import os
 
-directory = '4 Семестр/КиТГр/'
+directory = '4 Семестр/ТВиМС'
 
 for filename in os.listdir(directory):
     if filename.endswith('.md'):
